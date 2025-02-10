@@ -1,6 +1,6 @@
 {
     "system": "Oxla",
-    "date": "2024-04-09",
+    "date": "2025-01-23",
     "machine": "c6a.4xlarge, 500gb gp2",
     "cluster_size": 1,
     "comment": "Ingests data only from non-compressed cvs.",
